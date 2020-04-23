@@ -1,0 +1,38 @@
+{
+  "responseId": "d2b37750-e0cd-4983-bc76-b2e4bbd978987-266f04e0",
+  "queryResult": {
+    "queryText": "521164",
+    "parameters": {
+      "cust_name": "Mohan",
+      "cust_email": "mohan3696@gmail.com",
+      "cust_city": "Hyderabad",
+      "cust_zipcode": "500000",
+      "cust_mobile_number": "9291593693"
+    },
+    "allRequiredParamsPresent": true,
+    "fulfillmentText": "10",
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            "10"
+          ]
+        },
+        "platform": "TELEGRAM"
+      },
+      {
+        "text": {
+          "text": [
+            "10"
+          ]
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/covid-19-puyybw/agent/intents/8ac93fe0-04d3-415e-9921-07dd7f30954d",
+      "displayName": "Report"
+    },
+    "intentDetectionConfidence": 1,
+    "languageCode": "en"
+  }
+}
